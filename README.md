@@ -20,7 +20,7 @@ This project demonstrates GPU-accelerated image processing using TensorFlow in G
 
 | Original Image                          | Edge Detection (GPU Output)           |
 |----------------------------------------|---------------------------------------|
-| ![Original](./Ben%20Tennyson.jpg)        | ![Edge Output](./gpu_output_tf.png)   |
+| ![Original](./Ben%10Tennyson.jpg)        | ![Edge Output](./gpu_output_tf.png)   |
 
 ## 🚀 How to Run (In Google Colab)
 1. Open the notebook `edge_detection_gpu_tensorflow.ipynb`
