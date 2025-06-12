@@ -66,5 +66,5 @@ A short demo video (5–10 minutes) is included separately to explain:
 This project fulfills the GPU Specialization Capstone requirement by demonstrating a real-world GPU-accelerated application using TensorFlow. It's simple, visually meaningful, and easy to reproduce.
 
 ---
-**Author:** [Your Name]  
-**License:** MIT or Creative Commons (as per your preference)
+**Author:** [Sahil Tushir]  
+
