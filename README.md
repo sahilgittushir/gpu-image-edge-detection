@@ -56,7 +56,8 @@ Should return:
 ```
 
 ## 🎥 Presentation
-A short demo video (5–10 minutes) is included separately to explain:
+Video Link : https://drive.google.com/file/d/1eqUm58J1hk8GBFMLank9hmPymZBo2ZAL/view?usp=sharing
+A short demo video is included separately to explain:
 - What the code does
 - How it uses GPU
 - Visual comparison of input/output
